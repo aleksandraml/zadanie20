@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(146, 133, 145);
+}
+
+h1{
+    background-color: rgb(37, 37, 59);
+}
+
+h1+p {
+    background-color: rgb(97, 123, 123);
+}
+
+h2{
+    background-color: rgb(57, 63, 42);
+}
+
+h2+p{
+    background-color: rgb(81, 50, 111);
+}
